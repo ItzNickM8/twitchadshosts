@@ -1,0 +1,7 @@
+aax-us-east.amazon-adsystem.com
+aax-us-pdx.amazon-adsystem.com
+ad.doubleclick.net
+216.58.207.78
+216.58.207.78.in-addr.arpa
+78.207.58.216
+manifest.googlevideo.com
